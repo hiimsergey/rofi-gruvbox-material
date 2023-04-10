@@ -1,4 +1,6 @@
-# <p align="center">Gruvbox Material Rofi theme</p>
+# <p align="center">Gruvbox Material Rofi theme (GTK version)</p>
+
+### <p align="center">This branch is slightly different to match the <a href="https://github.com/TheGreatMcPain/gruvbox-material-gtk">corresponding GTK theme</a>.</p>
 
 <p align="center">A simple Gruvbox Material <a href="https://github.com/davatorium/rofi">Rofi</a> color theme.</p>
 
