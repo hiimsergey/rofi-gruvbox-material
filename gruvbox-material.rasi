@@ -25,6 +25,7 @@
 	orange: #e78a4e;
 	yellow: #d8a657;
 	aqua: #89b482;
+    blue: #637CA5;
 	purple: #d3869b;
 
     reddark: #c14a4a;
@@ -112,7 +113,7 @@ element.alternate.urgent {
 }
 
 element.selected.normal {
-	background-color: @gruv7;
+	background-color: @blue;
 	text-color: 282828;
 }
 
